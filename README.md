@@ -63,7 +63,7 @@ NEXT_PUBLIC_EMAIL_API_KEY=your-email-api-key
 OPENAI_ORG_ID=your-openai-org-id
 OPENAI_PROJECT_ID=your-openai-project-id
 OPENAI_BASE_URL=https://api.openai.com/v1/chat/completions
-
+```
 
 
 🤝 Contributing
