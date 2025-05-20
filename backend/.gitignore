@@ -1,0 +1,6 @@
+# Add to .gitignore
+/bin/
+/obj/
+*.dll
+*.exe
+.vs
