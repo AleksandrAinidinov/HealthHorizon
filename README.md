@@ -50,7 +50,7 @@ dotnet run
 All API paths are available to at https://localhost:7132/scalar/v1.
 
 ## 🗝️ Environment Variables / API Keys
-To use API keys or private configs, create an .env file.
+To use API keys or private configs, create environment variable files as follows.
 
 ### Frontend
 
@@ -58,12 +58,12 @@ To use API keys or private configs, create an .env file.
 - Fill in your backend API URL and any keys
 
 ```env
-NEXT_PUBLIC_API_URL=http://localhost:5214/api
+NEXT_PUBLIC_API_URL=http://localhost:7132/api
 NEXT_PUBLIC_EMAIL_API_KEY=your-email-api-key
 OPENAI_ORG_ID=your-openai-org-id
 OPENAI_PROJECT_ID=your-openai-project-id
 OPENAI_BASE_URL=https://api.openai.com/v1/chat/completions
-```
+
 
 
 🤝 Contributing
